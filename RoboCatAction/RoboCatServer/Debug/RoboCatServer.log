@@ -1,0 +1,13 @@
+﻿  RoboCatServer.vcxproj -> G:\RoboCatAction\Debug\RoboCatServer.exe
+  Copying SDL DLLs...
+  G:\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\libfreetype-6.dll
+  G:\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\libogg-0.dll
+  G:\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\libpng16-16.dll
+  G:\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\libvorbis-0.dll
+  G:\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\libvorbisfile-3.dll
+  G:\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\SDL2.dll
+  G:\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\SDL2_image.dll
+  G:\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\SDL2_mixer.dll
+  G:\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\SDL2_ttf.dll
+  G:\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\zlib1.dll
+  复制了 10 个文件
